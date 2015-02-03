@@ -1,12 +1,15 @@
 #isha-kriya
-==========
-
 ## Meditation tutorial using **jquery mobile**
+--------------------------------------------------------------------------------------------------------------------------------
 ####1.Author:
 **Nehmat Gereige**
 ####2.Description:
-This App was created using **JQuery Mobile library**. It is a tutorial is aimed to teach Isha Kriya. *Isha Kriya* is a powerful meditative process created by **Sadhguru Jaggi Vasuadev** for *Isha Foundation*. The meditation is aimed to bring a distance with the body and mind giving one freedom from daily struggles and closeness with their inner self.
+------------------
+This *App* was created using [JQuery Mobile library](http://jquerymobile.com/). It is a tutorial aimed to teach Isha Kriya. **This App is not an official tutorial for Isha Kriya but is a student project for Nehmat Gereige of Algonquin College. This project is not connected with Isha Foundation**
+*Isha Kriya* is a powerful meditative process created by **Sadhguru Jaggi Vasuadev** for [Isha Foundation](http://www.ishafoundation.org/"visit site"). The meditation is aimed to bring a distance with the body and mind giving one freedom from daily struggles.
+
 ####3.Instructions:
+--------------------
 - The tutoriol has step by step instructions on how to do the meditation. 
 - Each set of insturctions appears in a *dialog*. 
 - You will not be able to skip any step. 
