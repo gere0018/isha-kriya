@@ -748,8 +748,14 @@ button[disabled],
 /*///////////////////////////////////////////////////////////////*/
 /*my addition			*/
 #btn-container{
-    margin-left:2%;
+    margin-left:3%;
     width:100%;
+}
+#btn-container .ui-btn{
+    padding: 0.6em 0.8em;
+}
+#btn-container .ui-btn-icon-left {
+  padding-left: 2.5em;
 }
 
 /*images*/
