@@ -748,7 +748,7 @@ button[disabled],
 /*///////////////////////////////////////////////////////////////*/
 /*my addition			*/
 #btn-container{
-    margin-left:5%;
+    margin-left:2%;
     width:100%;
 }
 
@@ -758,10 +758,14 @@ button[disabled],
 }
 #nehmat{
     width: 100%;
-   
+}
+#startBtn1{
+    margin-top:0;
+    margin-bottom: 8%;
 }
 #breathe{
     width: 50%;
+
     margin-left: 20%;
 }
 #breathing{
